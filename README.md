@@ -14,7 +14,7 @@ As part of this process, TTS is seeking information from vendors in order to det
 
 ### How to respond
 
-We can only commit to reviewing those responses submitted through the Google Form, linked above.
+We can only commit to reviewing those responses submitted through the Google Form, linked above in `Request for Information`.
 
 ## Contributing
 

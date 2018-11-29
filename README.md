@@ -1,8 +1,10 @@
 # TTS-wide DMARC
 
-This is the GitHub repository that houses the [Request for Information](https://docs.google.com/forms/d/e/1FAIpQLScwD-htT1fTRU6Y6TuIp6JOI25_m9oeSoeE3f6N53CnSa7UeA/viewform?usp=sf_link) (RFI) posted by the GSA's [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS), seeking information for Sender Policy Framework / Domain-based Message Authentication, Reporting & Conformance (SPF/DMARC) related services for use by TTS project teams. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-dmarc/issues) in this repository by *December XX, 2018 at 5:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](https://github.com/18F/tts-buy-dmarc/issues/new). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This is the GitHub repository that houses the [Request for Information](https://docs.google.com/forms/d/e/1FAIpQLScwD-htT1fTRU6Y6TuIp6JOI25_m9oeSoeE3f6N53CnSa7UeA/viewform?usp=sf_link) (RFI) posted by the GSA's [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS), seeking information for Sender Policy Framework / Domain-based Message Authentication, Reporting & Conformance (SPF/DMARC) related services for use by TTS project teams.
 
-**Responses are due by December XX, 2018 at 5:00pm EST.**
+Please submit any questions as [an Issue](https://github.com/18F/tts-buy-dmarc/issues) in this repository. The Contracting Officer will only be responding to questions submitted using the [Issue Template](https://github.com/18F/tts-buy-dmarc/issues/new). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+
+**Responses are due by December 6, 2018 at 5:00pm EST.**
 
 ## Background
 

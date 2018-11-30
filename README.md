@@ -8,7 +8,7 @@ As mentioned, TTS is seeking providers of DMARC related services. TTS applies mo
 
 In October, 2017, the Department of Homeland Security (DHS) issued Binding Operational Directive (BOD) [BOD 18-01](https://cyber.dhs.gov/bod/18-01/), a compulsory directive that requires all Federal agency domains implement DMARC policies by October 2018 in order to improve email security.
 
-### How to respond
+## How to respond
 
 Vendors that offer DMARC related services similar to the requirements stated above are encouraged to complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScwD-htT1fTRU6Y6TuIp6JOI25_m9oeSoeE3f6N53CnSa7UeA/viewform?usp=sf_link).
 

@@ -4,7 +4,7 @@ This is the GitHub repository that houses the [Request for Information](https://
 
 Please submit any questions as [an Issue](https://github.com/18F/tts-buy-dmarc/issues) in this repository. The Contracting Officer will only be responding to questions submitted using the [Issue Template](https://github.com/18F/tts-buy-dmarc/issues/new). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-**Responses are due by December 6, 2018 at 5:00pm EST.**
+**Responses are due by December 7, 2018 at 5:00pm EST.**
 
 ## Background
 

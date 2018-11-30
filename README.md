@@ -6,7 +6,7 @@ The U.S. [General Services Administration's](https://www.gsa.gov/) (GSA) [Federa
 
 ## Background
 
-As mentioned, TTS is seeking providers of DMARC related services. TTS applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective, and by itself providing services that exemplify these values. To meet that goal, TTS builds and shares TTS technology applications and platforms with Federal agencies in an effort to help them better serve the public. 
+TTS applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective, and by itself providing services that exemplify these values. To meet that goal, TTS builds and shares TTS technology applications and platforms with Federal agencies in an effort to help them better serve the public. 
 
 In October, 2017, the Department of Homeland Security (DHS) issued Binding Operational Directive (BOD) [BOD 18-01](https://cyber.dhs.gov/bod/18-01/), a compulsory directive that requires all Federal agency domains implement DMARC policies by October 2018 in order to improve email security.
 

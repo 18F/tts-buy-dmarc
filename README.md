@@ -1,22 +1,22 @@
 # TTS-wide DMARC
 
-This is the GitHub repository that houses the [Request for Information](https://docs.google.com/forms/d/e/1FAIpQLScwD-htT1fTRU6Y6TuIp6JOI25_m9oeSoeE3f6N53CnSa7UeA/viewform?usp=sf_link) (RFI) posted by the [General Services Administration's](https://www.gsa.gov/) (GSA) [Federal Acquisition Service's](https://www.gsa.gov/about-us/organization/federal-acquisition-service) (FAS), [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS), seeking information for Sender Policy Framework / Domain-based Message Authentication, Reporting & Conformance (SPF/DMARC) related services for use by TTS project teams.
-
-Any questions concerning this RFI should be submitted using the [issue template](https://github.com/18F/tts-buy-dmarc/issues/new) in the GitHub repository's [Issues](https://github.com/18F/tts-buy-dmarc/issues) tab. Questions submitted via other formats will be considered, however the government cannot commit to responding to them.
-
-**Responses are due by December 7, 2018 at 5:00pm EST.**
+The U.S. General Services Administration's](https://www.gsa.gov/) (GSA) [Federal Acquisition Service's](https://www.gsa.gov/about-us/organization/federal-acquisition-service) (FAS), [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS), Office of Acquisition (OA), is conducting market research to finalize our requirements and acquisition strategy related to the implementation of Domain-based Message Authentication, Reporting & Conformance (DMARC) related services.  Additionally, we are seeking to identify potentially qualified large or small business firms (including small disadvantaged businesses such as Certified HUBZone, 8(a), Service-Disabled Veteran-Owned Small Business, and Women-Owned Small Business, etc.) to provide these services to TTS.
 
 ## Background
 
-As mentioned, TTS is seeking providers of DMARC related services. TTS applies modern methodologies and technologies to improve the public’s experience with Government by helping agencies make their services more accessible, efficient, and effective, and by itself providing services that exemplify these values. To meet that goal, TTS builds and shares TTS technology applications and platforms with Federal agencies in an effort to help them better serve the public. 
+As mentioned, TTS is seeking providers of DMARC related services. TTS applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective, and by itself providing services that exemplify these values. To meet that goal, TTS builds and shares TTS technology applications and platforms with Federal agencies in an effort to help them better serve the public. 
 
-In October, 2017, the Department of Homeland Security (DHS) issued Binding Operational Directive (BOD) [BOD 18-01](https://cyber.dhs.gov/bod/18-01/), a compulsory directive that requires all Federal agency domains implement Domain-based Message Authentication, Reporting & Conformance (DMARC) policies by October 2018 in order to improve email security. 
-
-As part of this process, TTS is seeking information from vendors in order to determine which companies have the skills to support these efforts and how they would go about providing those services to the U.S. Federal Government. Specifically, we are looking for companies who operate in an agile manner and ensure their offerings are always improved upon in an iterative and regular fashion.
+In October, 2017, the Department of Homeland Security (DHS) issued Binding Operational Directive (BOD) [BOD 18-01](https://cyber.dhs.gov/bod/18-01/), a compulsory directive that requires all Federal agency domains implement DMARC policies by October 2018 in order to improve email security.
 
 ### How to respond
 
-We can only commit to reviewing those responses submitted through the Google Form, linked above in `Request for Information`.
+Vendors that offer DMARC related services similar to the requirements stated above are encouraged to complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScwD-htT1fTRU6Y6TuIp6JOI25_m9oeSoeE3f6N53CnSa7UeA/viewform?usp=sf_link).
+
+**Responses are due by December 7, 2018 at 5:00pm EST.**
+
+## Questions
+
+Any questions concerning this RFI should be submitted using the [issue template](https://github.com/18F/tts-buy-dmarc/issues/new) in the GitHub repository's [Issues](https://github.com/18F/tts-buy-dmarc/issues) tab. Questions submitted via other formats will be considered, however the government cannot commit to responding to them.
 
 ## Contributing
 
